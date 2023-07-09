@@ -1,0 +1,33 @@
+.listItem-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.history-title-container {
+  display: flex;
+  justify-content: center;
+}
+
+.todo-logo {
+  height: 30px;
+  width: 30px;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.title-para {
+  margin-left: 15px;
+  font-weight: 500;
+}
+
+.domain-para {
+  margin-left: 15px;
+}
+
+.delete-button {
+  background-color: transparent;
+  border: none;
+}
